@@ -1,7 +1,7 @@
 ### Andrei Prelipceanu
 
 Interests
-# Linux
-# Fully open source software
+- Linux
+- Fully open source software
 
 
