@@ -1,6 +1,7 @@
-## Welcome to Andrei Prelipceanu's Page.
+### Andrei Prelipceanu
 
-### Interests
-
+Interests
+- Linux
+- Fully open source software
 
 
