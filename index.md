@@ -2,6 +2,4 @@
 
 Interests
 - Linux
-- Fully open source software
-- Circuits
 
